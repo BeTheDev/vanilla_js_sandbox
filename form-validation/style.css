@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  border: 1px solid black;
+}
+.form-container {
+  align-items: center;
+}
+input {
+  display: flex;
+}
